@@ -1,0 +1,11 @@
+section{
+	text-align: center;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+ul{
+	list-style:none;
+}
+.bg{
+	background: #319434;
+	color: #fff !important;
+}
